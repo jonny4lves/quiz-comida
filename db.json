@@ -1,85 +1,93 @@
   
 {
     "bg": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-sorvete-de-chocolate-8-1200x738.jpg",
-    "title": "Quiz Nota Fiscal Eletrônica - NF-e",
-    "description": "Teste seus conhecimentos sobre Nota Fiscal Eletrônica",
+    "title": "Quiz da Fominha",
+    "description": "Vamos ver o quanto você entende de comida",
     "questions": [
       {
-        "image": "https://i.ytimg.com/vi/39bPPDZWkE8/maxresdefault.jpg",
-        "title": "Qual desses CFOP's pode ser usado para nota de Devolução",
-        "description": "Essa é pra aquecer",
+        "image": "https://aventurasnahistoria.uol.com.br/media/_versions/legacy/2019/02/14/arroz-e-feijao-capa-1129310_widexl.png",
+        "title": "Qual o alimento mais comum no Brasil ?",
+        "description": "Bora começar",
+        "answer": 1,
+        "alternatives": [
+          "Feijão",
+          "Arroz"
+        ]
+      },
+      {
+        "image": "https://caianomundo-prod.imgix.net/2014/01/sorvete.jpg?fm=pjpg&ixlib=php-1.2.1",
+        "title": "Qual o primeiro sabor de sorvete criado ?",
+        "description": "Vamos para sobremesa",
         "answer": 0,
         "alternatives": [
-          "5411",
-          "5405",
-          "5911",
-          "5949"
+           "Arroz",
+           "Milho"
         ]
       },
       {
-        "image": "https://www.contabeis.com.br/assets/img/news/n_41363_2eeb9064f7f5b2569912cbb772a96438.jpg",
-        "title": "Quais dessas finalidades de NF-e não é válida",
-        "description": "Essa é fácil",
-        "answer": 3,
-        "alternatives": [
-           "Devolução",
-           "Ajuste",
-           "Complementar",
-           "Remessa"
-        ]
-      },
-      {
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXNuGTSBDgzxeUvHN1541D97Vj6Z32uLMIQ&usqp=CAU",
-        "title": "O CFOP 5405 deve ser utlizado com qual CSOSN",
-        "description": "Vamos deixar um pouco mais difícil",
+        "image": "https://s2.glbimg.com/9hUjJVG0JAbSDGHG2Xu7tvtWrAE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/D/Q/NYYDWXQFG9FCq7CBnzaA/pizza.jpeg",
+        "title": "Quando surgiu a pizza?",
+        "description": "Mamma mia!!",
         "answer": 1,
         "alternatives": [
-           "900 - OUTROS",
-           "500 - COBRADO ANTERIORMENTE POR ST",
-           "300 - IMUNE",
-           "400 - NÃO TRIBUTADO PELO SIMPLES"
+           "Século 17",
+           "Século 18"
         ]
       },
       {
-        "image": "https://www.orionsoftware.com.br/wp-content/uploads/2017/02/NCM....png",
-        "title": "Para que serve o NCM ?",
-        "description": "Vamos falar um pouco sobre NCM agora",
-        "answer": 2,
+        "image": "https://s2.glbimg.com/GQ7KYz3ACjKDx2Ns4lKPpz1xlC4=/0x0:3807x2625/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/q/T/uohY7JQAmY3TUDs14Amw/2018-09-17t194608z-1-lynxnpee8g1he-rtroptp-4-bebidas-cocacola-maconha.jpg",
+        "title": "Quem inventou a Coca Cola?",
+        "description": "Vai beber o que ?",
+        "answer": 0,
         "alternatives": [
-           "Indicar se o produto é tributado",
-           "Indicar se o produto é de revenda ou produção do estabelecimento",
-           "Identificar diversos tipos de produtos",
-           "Determinar o preço do produto"
+           "John Pemberto",
+           "Caleb Davis Bradham"
         ]
       },
       {
-        "image": "https://www.seekinformatica.com.br/wp-content/uploads/2018/01/TABELA-CST-CSOSN--e1517482663241.jpg",
-        "title": "Qual a diferença entre CST e CSOSN",
-        "description": "Para finalizar",
+        "image": "https://media0.giphy.com/media/QTfuO10iE7wOuOKcYo/giphy.gif?cid=ecf05e47lv43kuxw162vbldei81an70c6mqfns5q3k78efcj&rid=giphy.gif",
+        "title": "De onde a batata é nativa ?",
+        "description": "A batata tá esquentando",
+        "answer": 0,
+        "alternatives": [
+           "Cordilheira dos Andes",
+           "México"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/600x315/d1/97/1f/d1971f02e54887db3716cf8d803ae796.jpg",
+        "title": "Qual a origem do Alfajor?",
+        "description": "E vamos pro doces de novo",
         "answer": 1,
         "alternatives": [
-           "CSON é utilizado por empresas do Regime normal e CST por empresas do Simples Nacional",
-           "CST é utilizado por empresas do Regime normal e CSON por empresas do Simples Nacional",
-           "CST é usado para revenda e CSOSN para venda de produção do estabelecimento",
-           "CSON é utilizado para vendas dentro do estado e CST para vendas fora do estado"
+           "Francesa",
+           "Árabe"
+        ]
+      },      {
+        "image": "https://www.temporadalivre.com/blog-media/posts/cover/10466/size_800_5-comidas-tipicas-do-litoral-paranaense-que-voce-precisa-conhecer-a82d9398.jpg",
+        "title": "Qual o prato típico do Pr?",
+        "description": "Agora pra finalizar",
+        "answer": 0,
+        "alternatives": [
+           "Barreado",
+           "Pirão"
         ]
       }
     ],
     "external": [
       "https://aluraquiz-base.alura-challenges.vercel.app",
-      "https://quiz-spiderman.elciojunior7.vercel.app/",
-      "https://aluraquiz-css.omariosouto.vercel.app/"
+      "https://quiz-nfe.jonny4lves.vercel.app",
+      "https://aluraquiz-css.omariosouto.vercel.app"
     ],
     "theme": {
       "colors": {
-        "primary": "#673ab7",
-        "secondary": "#29b6f6",
+        "primary": "#fc0fc0",
+        "secondary": "#ffa500",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },
       "borderRadius": "4px"
-    },
-    "loading":"https://media3.giphy.com/media/xFmuT64Jto3mRO4w3G/giphy.gif"
+    }
   }

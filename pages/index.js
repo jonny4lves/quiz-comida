@@ -61,7 +61,7 @@ export default function Home() {
                 placeholder="Informe sua Razão Social"
               />
               <Button type="submit" disabled={name.length === 0}>
-                {`Emitir NF-e ${name}`}
+                {`Bora comer ${name}`}
               </Button>
             </form>
           </Widget.Content>
